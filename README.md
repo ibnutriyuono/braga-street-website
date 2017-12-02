@@ -9,3 +9,4 @@
 * [Scrollreveal.js](https://scrollrevealjs.org/) - Used to animate intro section in index.html
 * [Firebase](https://firebase.google.com) - Realtime Database
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) - Tutorial how to create a firebase email form
+* [Talent Bandung](http://www.talentbandung.id/) - :fire:
