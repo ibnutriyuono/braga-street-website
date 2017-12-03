@@ -638,6 +638,10 @@ a.text-danger:hover {
     color: #e6e6e6
 }
 
+.img-margin{
+  padding-top: 25px;
+}
+
 .bg-primary {
     color: #fff;
     background-color: #333
